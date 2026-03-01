@@ -1,1 +1,2 @@
 minor v1.1.0
+Minor update 1.2.0
